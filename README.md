@@ -6,3 +6,7 @@ This is because installing it through PIP consistently gives an outdated version
 
 Simply run the program wallify.exe if using the executable version, otherwise run WallifyEx.py and proceed through the instructions shown
 on the console. Remember to use Ctrl + C to close the console otherwise the program may fail to return your old wallpaper upon ending.
+
+![](https://github.com/EggRolle/Wallify/blob/master/sample1.png)
+![](https://github.com/EggRolle/Wallify/blob/master/sample2.png)
+![](https://github.com/EggRolle/Wallify/blob/master/sample3.png)
