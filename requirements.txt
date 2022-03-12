@@ -7,7 +7,7 @@ omelette == 1.1.6
 
 # Wallify.py: 13,14,15
 # WallifyEx.py: 12,13,14
-pillow == 6.2.1
+pillow == 9.0.1
 
 # Wallify.py: 13,14,15
 # WallifyEx.py: 12,13,14
